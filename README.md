@@ -8,10 +8,12 @@ Data Collection  ➡️ Data Preprocessing ➡️  Model Creation ➡️ Model C
 
 We compiled BISINDO dataset from Kaggle and also create our own dataset to train the model.
 These are the links to the Kaggle dataset that we have used to train the model.
-* [Dataset 1](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
-* [Dataset 2](https://www.kaggle.com/datasets/riestiyazain/bisindo2)
-* [Dataset 3](https://www.kaggle.com/datasets/alfredolorentiars/bisindo-letter-dataset)
-* [Dataset 4](https://www.kaggle.com/datasets/idhamozi/indonesian-sign-language-bisindo)
+* [Dataset 1 (Kaggle)](https://www.kaggle.com/datasets/achmadnoer/alfabet-bisindo)
+* [Dataset 2 (Kaggle)](https://www.kaggle.com/datasets/riestiyazain/bisindo2)
+* [Dataset 3 (Kaggle)](https://www.kaggle.com/datasets/alfredolorentiars/bisindo-letter-dataset)
+* [Dataset 4 (Kaggle)](https://www.kaggle.com/datasets/idhamozi/indonesian-sign-language-bisindo)
+* [Dataset 5 (Our own manually created dataset)](https://drive.google.com/file/d/1tRZBQE3qGpLg6KT5KJhulEy9lAzlao0O/view)
+* [Final Dataset (Compiled & preprocessed)](https://drive.google.com/file/d/1umtKaYyuJG48eDvGSDnrOBwfg6E5mkPB/view?usp=sharing)
 
 ## Data Preprocessing
 
